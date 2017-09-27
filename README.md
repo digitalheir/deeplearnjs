@@ -1,4 +1,4 @@
-# [runes-in-deeplearnjs-tutorial](https://github.com/digitalheir/runes-in-deeplearnjs-tutorial/blob/master/rune_recognition.md)
+# Runes in deeplearn.js
 [🎓 deeplearn.js tutorial to add your own data set to the model builder demo](https://github.com/digitalheir/runes-in-deeplearnjs-tutorial/blob/master/rune_recognition.md)
 
 
